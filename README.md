@@ -1,2 +1,2 @@
-# pixelremix
-Minecraft-like sandbox RPG
+# VoxelRemix
+A *Minecraft*-esque sandbox RPG
